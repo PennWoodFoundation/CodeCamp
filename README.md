@@ -54,6 +54,9 @@ It is the goal of this event that everything can be done in a web browser.  This
 - Should we look for Chromebook ready design tools and art tools
 - Should we include some instruction on this during the event
 
+## Sample education
+[Previous video to introduce CodePen](https://youtu.be/O-vslGuGRg8)
+
 ## Ideal Entries
 
 I am attaching the previous year rubrics for examination:
