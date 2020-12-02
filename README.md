@@ -84,6 +84,22 @@ I want to see:
 - Sites that propose a problem and solution that can be addressed by using the site over those that propose super global nonprofits that are not likely to come to fruition
 - Sites that solve the problem interactively over sites that are a research report on the problem
 
-Example:
+# Example:
 
 
+From Me to Everyone:  07:05 PM
+https://github.com/PennWoodFoundation/CodeCamp/blob/trunk/README.md
+From Tim to Everyone:  07:12 PM
+what about the adult advisor access to Azure
+From Tim to Everyone:  07:19 PM
+I found this on the Microsoft site: https://azureforeducation.microsoft.com/devtools
+From Me to Everyone:  07:28 PM
+This is the Azure for Students Starter activation site: https://azure.microsoft.com/en-us/free/students/starter/
+We could all theoretically sign up with a credit card and set spending to zero.
+From Marquis Chamberlain to Everyone:  07:35 PM
+https://www.windowscentral.com/how-install-microsoft-visual-studio-code-chromebook
+https://installpython3.com/chromebook/
+https://opensource.com/article/18/2/agile-project-management-tools
+
+
+https://docs.microsoft.com/en-us/azure/education-hub/azure-dev-tools-teaching/about-program
