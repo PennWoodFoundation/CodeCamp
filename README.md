@@ -1,13 +1,11 @@
-# CodeCamp
-Repository for everything related to CodeCamp 2021 (temporary name)
-
-(currently) - by Chris Gomez
+# WPSD CodeCamp
+Repository for everything related to WPSD CodeCamp 2021
 
 ## Name
 The event is temporarily named Code Camp.  This is still to be decided upon.
 
 ## Purpose
-The purpose of the event is for students to build a web application in 48 hours that offers a solution to a global problem.  Students are grouped into teams and are instructed in web technologies as they build their application.
+The purpose of the event is for students to build a web application in 48 hours that offers a technical solution to a problem.  Students are grouped into teams and are instructed in web technologies as they build their application.
 
 ## Skills
 - HTML / CSS
