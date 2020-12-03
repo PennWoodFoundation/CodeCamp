@@ -3,7 +3,10 @@
 ## Requirements
 - An email address you have access to
     - This will likely be the students WPSD Google accounts (williampennsd.net)
-- GitHub login
+- You need a GitHub account
+    - Github just requires an email address to sign up
+    - You will confirm you own the email address after signing up
+    - Do not lose access to your email account, or you lose access to this new GitHub account
 
 ## Step 0 - Create a repl.<span>it</span> account
 - Make sure you are logged into GitHub (go to GitHub.com to make sure)
