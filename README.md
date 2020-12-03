@@ -1,3 +1,6 @@
+# Try the <span>Repl.</span> tutorial here: https://github.com/PennWoodFoundation/CodeCamp/blob/trunk/replit-tutorial.md
+
+
 # WPSD CodeCamp
 Repository for everything related to WPSD CodeCamp 2021
 
